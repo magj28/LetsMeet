@@ -3,7 +3,7 @@
 ## Description
 
 Let's Meet! has been created for the one month challenge given under Microsoft Engage Mentorship Program 2021. 
-The challange was to create a fully functional prototype with at least one mandatory functionality - a minimum of two participants should be able connect with each other using your product to have a video conversation.
+The challenge was to create a fully functional prototype with at least one mandatory functionality - a minimum of two participants should be able connect with each other using your product to have a video conversation.
 The adapt feature given in the 3rd week was to include a chat feature in your application where meeting participants can share info without disrupting the flow of the meeting. The apk and video demo can be found at: https://drive.google.com/drive/folders/162EsFWw1Z8litX411l2qW6maQ3frsUPk
 
 Technologies Used:
